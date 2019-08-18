@@ -1,4 +1,5 @@
-# UDACITY | Data Analyst Nanodegree Program 2019 | Project 2 Investigate Dataset
+# UDACITY | Data Analyst Nanodegree Program 2019
+# Project 2 Investigate Dataset
 
 ## Overview
 
