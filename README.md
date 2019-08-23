@@ -38,7 +38,7 @@ The following questions were investigated:
 ## Technologies Used
 
 - Jupyter Notebook
-- Python with libraries:
+- Python with the following libraries and modules:
   - NumPy
   - pandas
   - Matplotlib
