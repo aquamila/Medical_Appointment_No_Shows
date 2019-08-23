@@ -39,7 +39,7 @@ The following questions were investigated:
 
 - Jupyter Notebook
 - Python with libraries:
- - NumPy
- - pandas
- - Matplotlib
- - Seaborn
+  - NumPy
+  - pandas
+  - Matplotlib
+  - Seaborn
