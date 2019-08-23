@@ -38,5 +38,8 @@ The following questions were investigated:
 ## Technologies Used
 
 - Jupyter Notebook
-- Python 
-- Python libraries NumPy, pandas, Matplotlib and Seaborn
+- Python with libraries:
+ - NumPy
+ - pandas
+ - Matplotlib
+ - Seaborn
