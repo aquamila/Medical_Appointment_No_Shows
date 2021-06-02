@@ -1,5 +1,5 @@
 # UDACITY | Data Analyst Nanodegree Program
-# Project 2 Investigate Dataset
+# Investigate Dataset
 
 ## Overview
 
